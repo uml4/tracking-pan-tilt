@@ -9,3 +9,7 @@ Phần 1 : điều khiển  cánh tay robot :  chạy file main_GPIO.py hoặc m
 Phần 2: cánh tay robot tự động xoay theo màu sắc 
  - Chạy Ball_tracking.py để hiểu cách tracking theo màu sắc.
  - Sau đó chạy pan_tilt_tracking_color_ver2.py để điều khiển cánh tay camera theo sự di chuyển của màu vàng
+
+
+
+-bgr_hsv_converter.py dùng để convert màu bgr sang hsv
