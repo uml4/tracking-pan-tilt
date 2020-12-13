@@ -6,7 +6,6 @@ from multiprocessing import Manager
 from multiprocessing import Process
 from imutils.video import VideoStream
 from thuvien.objcenter import ObjCenter
-from thuvien.pid import PID
 # import pantilthat as pth
 import argparse
 import signal
